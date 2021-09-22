@@ -108,4 +108,7 @@
     .userCard::after {
         display: none;
     }
+    .userPersonalInfo {
+        padding-bottom: 14%;
+    }
 }
